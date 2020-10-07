@@ -1,2 +1,4 @@
 ### Executable ###
 *.exe
+### Mac's Spotlight databases
+.DS_Store
