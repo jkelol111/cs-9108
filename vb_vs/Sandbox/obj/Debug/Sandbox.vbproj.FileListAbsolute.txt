@@ -1,0 +1,6 @@
+/Users/jkelol111/Documents/School/A-Levels/Computer Science/cs-9618/vb_vs/Sandbox/bin/Debug/Sandbox.exe
+/Users/jkelol111/Documents/School/A-Levels/Computer Science/cs-9618/vb_vs/Sandbox/bin/Debug/Sandbox.pdb
+/Users/jkelol111/Documents/School/A-Levels/Computer Science/cs-9618/vb_vs/Sandbox/obj/Debug/Sandbox.vbprojAssemblyReference.cache
+/Users/jkelol111/Documents/School/A-Levels/Computer Science/cs-9618/vb_vs/Sandbox/obj/Debug/Sandbox.vbproj.CoreCompileInputs.cache
+/Users/jkelol111/Documents/School/A-Levels/Computer Science/cs-9618/vb_vs/Sandbox/obj/Debug/Sandbox.exe
+/Users/jkelol111/Documents/School/A-Levels/Computer Science/cs-9618/vb_vs/Sandbox/obj/Debug/Sandbox.pdb

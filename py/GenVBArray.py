@@ -1,4 +1,4 @@
-raw = open("raw.txt", "r").read().split("\n")
+raw = open("raw.txt", "r").read()
 out = ""
 for char in raw:
     out +=  '"' + char + '",'

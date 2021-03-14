@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{2C747351-3C1B-434C-8EB0-469487B74F98}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sandbox2/Application.vb">
+    <Files>
+      <File FileName="Sandbox2/Application.vb" Line="5" Column="553" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sandbox" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Sandbox2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Sandbox PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
